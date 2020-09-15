@@ -4,4 +4,4 @@
   - Total pins        16 / 268 ( 6 % )
   - Tempo critico B[0] => R[2]: FF 10.633 
 
-[RTL simu](~/Picture/ula_rtl.png)
+![RTL simu](~/Picture/ula_rtl.png)
